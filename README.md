@@ -1,4 +1,4 @@
-mukapp
+muk_android_app
 ======
 
 The MAKERERE UNIVERSITY Android App
@@ -18,3 +18,6 @@ Are you a UX/Graphics Designer?
 	You can also help improve the app's design.
 
 This software also uses these libraries:
+	https://github.com/astuetz/ViewPagerExtensions/			/Apache 2.0
+	
+	https://github.com/JakeWharton/ActionBarSherlock/		/Apache 2.0
