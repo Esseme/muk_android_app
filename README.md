@@ -16,6 +16,6 @@ You can also help improve the app's design.
 
 This software also uses these libraries:
 
-	[link](https://github.com/astuetz/ViewPagerExtensions/)			/Apache 2.0
+* [ViewPagerExtensions](https://github.com/astuetz/ViewPagerExtensions/)		/Apache 2.0
 	
-	[link](https://github.com/JakeWharton/ActionBarSherlock/)		/Apache 2.0
+* [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock/)		/Apache 2.0
