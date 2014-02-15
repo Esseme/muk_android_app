@@ -7,7 +7,7 @@ The MAKERERE UNIVERSITY Android App is an initiative by the **Google Student Amb
 Are you an android enthusiast or developer?
 Clone the repository and start coding!
 
-    $ git clone git://github.com/atimothee/makerere-university-android-app.git
+    $ git clone git://github.com/atimothee/muk_android_app.git
 
 
 Are you a UX/Graphics Designer?
@@ -16,6 +16,6 @@ You can also help improve the app's design.
 
 This software also uses these libraries:
 
-* [ViewPagerExtensions](https://github.com/astuetz/ViewPagerExtensions/)		/Apache 2.0
+* [ViewPagerExtensions](https://github.com/astuetz/ViewPagerExtensions/)
 	
-* [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock/)		/Apache 2.0
+* [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock/)
