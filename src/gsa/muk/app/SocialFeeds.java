@@ -1,5 +1,7 @@
 package gsa.muk.app;
 
-public class SocialFeeds {
+import android.support.v4.app.Fragment;
+
+public class SocialFeeds extends Fragment{
 
 }
